@@ -1,0 +1,26 @@
+{
+    "name": "jeff/php-simple-html-dom-parser",
+    "description": "Composer adaptation for: A simple PHP HTML DOM parser written in PHP5+, supports invalid HTML, and provides a very easy way to find, extract and modify the HTML elements of the dom. jquery like syntax allow sophisticated finding methods for locating the elements you care about.",
+    "keywords":["html", "dom", "parser"],
+    "type": "library",
+    "homepage": "https://github.com/jeffmilanes/php-simple-html-dom-parser",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "S.C. Chen",
+            "homepage": "https://sourceforge.net/projects/simplehtmldom/"
+        },
+        {
+            "name": "jeffmilanes",
+            "email": "hello@jeffmilanes.com",
+            "homepage": "https://jeffmilanes.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2",
+        "ext-mbstring": "*"
+    },
+    "autoload": {
+        "psr-0": { "jeffmilanes\\PhpSimpleHtmlDomParser\\HtmlDomParser": "Src/" }
+    }
+}
