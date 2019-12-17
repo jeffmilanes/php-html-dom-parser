@@ -20,7 +20,7 @@ Install
  composer.phar
 ```json
 "require": {
-    "jeffmilanes/php-simple-html-dom-parser": "1.9.1"
+    "jeffmilanes/php-html-dom-parser": "1.9.1"
     }
 ```
 
