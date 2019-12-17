@@ -1,7 +1,7 @@
 php-html-dom-parser
 ==========================
 
-Version 1.9.1
+Version 1.9.1 PHP 7.3 compatible
 
 Adaptation for Composer and PSR-0 of:
 
