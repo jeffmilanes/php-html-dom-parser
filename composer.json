@@ -21,6 +21,6 @@
         "ext-mbstring": "*"
     },
     "autoload": {
-        "psr-4": { "jeffmilanes\\PhpSimpleHtmlDomParser\\HtmlDomParser": "Src/" }
+        "psr-0": { "jeffmilanes\\PhpSimpleHtmlDomParser\\HtmlDomParser": "Src/" }
     }
 }
