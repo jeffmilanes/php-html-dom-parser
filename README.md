@@ -3,7 +3,7 @@ php-html-dom-parser
 
 Version 1.9.1 PHP 7.3 compatible
 
-Adaptation for Composer and PSR-4 of:
+Adaptation for Composer and PSR-0 of:
 
 A HTML DOM parser written in PHP5+ let you manipulate HTML in a very easy way!
 Require PHP 5+.
