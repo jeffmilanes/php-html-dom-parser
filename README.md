@@ -1,4 +1,4 @@
-php-html-dom-parser
+PHP HTML DOM PARSER
 ==========================
 
 Version 1.9.1 PHP 7.3 compatible
