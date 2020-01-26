@@ -17,11 +17,8 @@ http://simplehtmldom.sourceforge.net/
 Install
 -------
 
- composer.phar
 ```json
-"require": {
-    "jeffmilanes/php-html-dom-parser": "1.9.1"
-    }
+composer require jeffmilanes/php-html-dom-parser
 ```
 
 Usage
